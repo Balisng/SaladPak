@@ -22,7 +22,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "owner": "your-expo-username",
+    "owner": "balisng",
     "extra": {
       "eas": {
         "projectId": "62447f34-14ad-4409-9469-068cc51a8e49"
